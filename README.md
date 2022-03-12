@@ -8,6 +8,7 @@
 
 ## 🛠️ Languages and Tools
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" height="40" style="margin:4px">
@@ -20,6 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="Redhat Linux" height="40" style="margin:4px">
+<p/>
 
 ## 🌟 My Stats ##
 
