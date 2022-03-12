@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - rohitmendus@gmail.com
 
+![](https://visitor-badge.laobi.icu/badge?page_id=rohitmendus.rohitmendus)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&theme=tokyonight)
 
 <!---
