@@ -27,6 +27,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rohitmendus.rohitmendus)
 [![Github](https://img.shields.io/github/followers/rohitmendus?label=Follow&style=social)](https://github.com/rohitmendus)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=prussian)
 
