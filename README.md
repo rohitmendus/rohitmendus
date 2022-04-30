@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" height="40" style="margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="40" style="margin:4px">
