@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @rohitmendus #
 ## 🤠 I am a high school student passionate about tech
 
-- 👀 I’m interested in Web Dev in Python
-- 🌱 I’m currently learning Django
+- 👀 I’m a full stack python developer
+- 🌱 I’m currently doing side projects
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me - rohitmendus@gmail.com
 
