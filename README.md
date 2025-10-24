@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40" style="margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="margin:4px">
