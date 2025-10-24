@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
   <!-- HTMX -->
-  <img src="https://avatars.githubusercontent.com/u/60435445?s=200&v=4" alt="HTMX" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original-wordmark.svg" alt="HTMX" height="40" style="margin:4px">
 
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
