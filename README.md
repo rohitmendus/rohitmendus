@@ -32,6 +32,10 @@
   <!-- Sass -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
+  <!-- Tailwind CSS -->
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)" alt="Tailwind CSS" height="40"   style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+
   <!-- jQuery -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
@@ -52,6 +56,10 @@
 
   <!-- Red Hat -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat Linux" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+  
 </p>
 
 
