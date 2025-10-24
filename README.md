@@ -11,21 +11,49 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" height="40" style="margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" height="40" style="margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/htmx/htmx-original-wordmark.svg" alt="HTMX" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="40" style="margin:4px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="Red Hat Linux" height="40" style="margin:4px">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Django (dark theme friendly) -->
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Sass -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- jQuery -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- HTMX -->
+  <img src="https://avatars.githubusercontent.com/u/60435445?s=200&v=4" alt="HTMX" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Red Hat -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat Linux" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 </p>
+
 
 ---
 
