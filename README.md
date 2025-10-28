@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=tokyonight" height="170" />
 </p>
 
@@ -114,7 +114,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -122,7 +123,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitmendus&theme=tokyo-night&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitmendus&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -130,7 +131,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=tokyonight" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
