@@ -85,7 +85,8 @@
 
 <p align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus" alt="GitHub Streak" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ---
