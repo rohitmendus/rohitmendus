@@ -84,8 +84,8 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitmendus&hide_border=false" alt="GitHub Streak"/>
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus" alt="GitHub Streak" /> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
