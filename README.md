@@ -1,12 +1,36 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @rohitmendus #
-## 🤠 I am passionate about tech
+## 🤠 Full Stack Devloper Intern and College Undergrad
 
-- 💻 I’m a full stack Python developer  
-- 🌱 I’m currently doing side projects  
-- 💞️ I’m looking to collaborate on any project  
-- 📫 How to reach me: **rohitmendus@gmail.com**
+- 🔭 I'm currently working on **a chat app**
+- 🌱 I'm currently learning **Websockets and Django Channels**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **Django, Python and Full Stack Development**
+- 📫 How to reach me **rohitmendus@gmail.com**
 
----
+## 🤝 Connect with me
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/rohitmendus" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" style="margin:6px;" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rohitmendus/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" style="margin:6px;" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/rohitmendus" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="45" style="margin:6px;" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/arelius123" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" style="margin:6px;" />
+  </a>
+</p>
+
+
 
 ## 🛠️ Languages and Tools
 
@@ -17,7 +41,10 @@
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
-  <!-- Django (dark theme friendly) -->
+  <!-- Dart -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Django  -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
   <!-- HTML -->
@@ -48,14 +75,17 @@
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
-  <!-- Dart -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
-
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
   <!-- Red Hat -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat Linux" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
@@ -75,8 +105,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=dark" height="170" />
 </p>
 
 ---
@@ -84,17 +114,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> -->
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus" alt="GitHub Streak" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=dark" alt="GitHub Streak" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohitmendus&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitmendus&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitmendus&theme=tokyo-night&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -102,7 +130,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
