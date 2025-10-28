@@ -105,8 +105,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitmendus&show_icons=true&tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmendus&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -114,7 +114,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=dark" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmendus&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -130,7 +130,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmendus&theme=tokyonight" alt="GitHub Activity Graph"/>
 </p>
 
 ---
