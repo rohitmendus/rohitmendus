@@ -2,7 +2,7 @@
 ## 🤠 Full Stack Devloper Intern and College Undergrad
 
 - 🔭 I'm currently working on **a chat app**
-- 🌱 I'm currently learning **Websockets and Django Channels**
+- 🌱 I'm currently learning **React**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **Django, Python and Full Stack Development**
 - 📫 How to reach me **rohitmendus@gmail.com**
