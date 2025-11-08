@@ -47,6 +47,9 @@
   <!-- Django  -->
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
+
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="margin:6px; background:white; padding:6px; border-radius:8px;">
 
