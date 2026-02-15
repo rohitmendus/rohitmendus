@@ -1,9 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I’m @rohitmendus #
 ## 🤠 Full Stack Devloper Intern and College Undergrad
 
-- 🔭 I'm currently working on **a chat app**
-- 🌱 I'm currently learning **React**
-- 👯 I'm looking to collaborate on **open source projects**
+- 🔭 I'm currently working as an **intern**
+- 🌱 I'm currently learning **DSA & RHCE**
+- 👯 I'm looking to collaborate on **open source django/react projects**
 - 💬 Ask me about **Django, Python and Full Stack Development**
 - 📫 How to reach me **rohitmendus@gmail.com**
 
